@@ -1,4 +1,4 @@
-This is macOS and windows for scratch. Download scratch link and download the scratch offline editor.
+This is for macOS for scratch. Download scratch link and download the scratch offline editor.
 Link: Scratch.mit.edu/download
 
 ***Version***
