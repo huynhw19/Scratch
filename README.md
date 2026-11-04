@@ -1,3 +1,1 @@
-Related project
-
-Turbowrap- scratch mod: https://github.com/huynhw19/Turbowrap
+Related project: Turbowrap- scratch mod: https://github.com/huynhw19/Turbowrap
